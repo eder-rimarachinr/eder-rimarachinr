@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Spring**
 
-- 👨‍💻 All of my projects are available at [https://eder-rimarachin.netlify.app/](https://eder-rimarachin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://eder-rimarachin.netlify.app/](blank:#https://eder-rimarachin.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
