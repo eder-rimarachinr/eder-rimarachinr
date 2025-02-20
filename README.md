@@ -1,3 +1,5 @@
+<img src="https://github.com/notKimu/eder-rimarachinr/blob/main/eder_github.png?raw=true" width="100%">
+
 <h1 align="center">Hi 👋, I'm Eder Rimarachin</h1>
 <h3 align="center">A passionate full stack web developer from Peru</h3>
 
