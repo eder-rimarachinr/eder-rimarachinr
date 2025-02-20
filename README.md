@@ -1,140 +1,44 @@
 <img src="https://github.com/eder-rimarachinr/eder-rimarachinr/blob/main/eder_github.png?raw=true" width="100%">
 
-<h1 align="center">Hi 👋, I'm Eder Rimarachin</h1>
-<h3 align="center">A passionate full stack web developer from Peru</h3>
+Hi, I'm Eder, a little software engineer who loves tinkering with tech stuff.
 
-- 👨‍💻 More abuout me at [https://eder-rimarachin.netlify.app/](https://eder-rimarachin.netlify.app/)
+```toml
+name = "Eder"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joaquinzeta" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-  alt="joaquinzeta" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/eder-rimarachinr" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-  alt="eder-rimarachinr" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_ederjoaquin" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-  alt="_ederjoaquin" height="30" width="40" />
-</a>
-</p>
+[self]
+age = 26
+locale = "es-ES"
+drink = "Mate 🍵"
+icon = "🍃"
 
-<h3 align="left">Programming Languages / Frameworks</h3>
-<p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
+[langs]
+fav = "C#"
+most_used = "TypeScript"
 
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
-    alt="spring" 
-    width="40" 
-    height="40"/> 
-  </a> 
+[os]
+kernel = "linux"
+flavor = "Manjaro"
+```
 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" 
-    width="40" 
-    height="40"/> 
-  </a>
-  
-</p>
+## Skills
 
-<h3 align="left">Frontend Development</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h3 align="left">Database</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h3 align="left">Other</h3>
-<p align="left">
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- - -
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eder-rimarachinr&label=Profile%20views&color=0e75b6&style=flat" alt="eder-rimarachinr" /> </p>
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- - -
