@@ -1,4 +1,4 @@
-<img src="https://github.com/eder-rimarachinr/eder-rimarachinr/blob/main/eder_github.png?raw=true" width="100%">
+<img src="blob:https://www.remove.bg/553011d0-6cc4-400b-93de-aceae63137f0?raw=true" width="100%">
 
 <h1 align="center">Hi 👋, I'm Eder Rimarachin</h1>
 <h3 align="center">A passionate full stack web developer from Peru</h3>
