@@ -6,7 +6,7 @@ Hi, I'm Eder, a little software engineer who loves tinkering with tech stuff.
 name = "Eder"
 
 [self]
-age = 26
+age = 27
 locale = "es-ES"
 drink = "Mate 🍵"
 icon = "🍃"
