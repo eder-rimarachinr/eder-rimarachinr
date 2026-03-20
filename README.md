@@ -1,42 +1,58 @@
-<img src="https://github.com/eder-rimarachinr/eder-rimarachinr/blob/main/eder_github.png?raw=true" width="100%">
+<img src="https://github.com/eder-rimarachinr/eder-rimarachinr/blob/main/eder_github.png?raw=true" width="100%" alt="Eder Rimarachin banner" />
 
-Hi, I'm Eder, a little software engineer who loves tinkering with tech stuff.
+# Eder Rimarachin
+
+Backend-oriented Software Engineer focused on building reliable products that solve real business problems.
+
+I enjoy turning ideas into scalable web applications, with clean architecture, maintainable code, and measurable impact.
+
+## About Me
 
 ```toml
 name = "Eder"
 
-[self]
-age = 27
+[profile]
+role = "Software Engineer"
+location = "Peru"
 locale = "es-ES"
-drink = "Mate 🍵"
-icon = "🍃"
+drink = "Mate"
 
-[langs]
-fav = "C#"
-most_used = "TypeScript"
+[focus]
+main = "Backend development"
+secondary = "Full-stack collaboration"
+mindset = "Performance, scalability, and clean code"
 
-[os]
-kernel = "linux"
-flavor = "Manjaro"
+[favorites]
+language = "TypeScript"
+os = "Linux (Manjaro)"
 ```
 
-## Skills
+## Core Stack
 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- - -
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-- - -
+## Tools & Databases
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## What I Bring
+
+- Business-first engineering: I build features that create value, not just code.
+- Clean and scalable architecture for long-term projects.
+- Strong ownership from idea to production.
+- Team mindset: communication, collaboration, and continuous improvement.
+
+## Let's Connect
+
+If you are building a product and need a developer who cares about quality and impact, feel free to connect with me.
